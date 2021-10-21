@@ -1,0 +1,73 @@
+/*Estilos da pagina index.html*/
+
+.background {
+    background-image: url("https://freefrontend.com/assets/img/css-background-patterns/simple-pattern-with-css3.png");
+
+}
+
+#menu li {
+    display: inline;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li a:hover {
+    color: darkgrey;
+}
+
+.center {
+    text-align: center;
+}
+
+.paragraph {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.tm-img {
+    display: block;
+    max-width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font-a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-logo {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center
+}
+
+.logo {
+    width: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Estilos da pagina listaanimes.html*/
+
+.container {
+display: flex;
+flex-flow: column;
+justify-content: center;
+align-items: center;
+}
+
+.p-top {
+    padding-top: 10px;
+}
+
+.tm-30 {
+    font-size: 30px;
+}
