@@ -55,6 +55,14 @@
     padding-right: 25px;
 }
 
+.ml-50 {
+    margin-left: 50px;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
 /*Estilos da pagina listaanimes.html*/
 
 .container {
